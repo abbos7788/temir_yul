@@ -90,7 +90,7 @@ bosh_sahifa_qarshi_bolimlar_1 = ReplyKeyboardMarkup(
 				KeyboardButton(text="Техник ишлаб чиқариш бўлими")
 		],
 		[
-				KeyboardButton(text="Техник ишлаб чиқариш бўлими")
+				KeyboardButton(text="Бошқалар")
 		],
 
 

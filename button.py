@@ -89,9 +89,7 @@ bosh_sahifa_qarshi_bolimlar_1 = ReplyKeyboardMarkup(
 		[
 				KeyboardButton(text="Техник ишлаб чиқариш бўлими")
 		],
-		[
-				KeyboardButton(text="Қарши алоқа ва ишорат муассасаси ШЧ-8")
-		],
+
 
 
 	],
@@ -102,6 +100,9 @@ bosh_sahifa_qarshi_bolimlar_2 = ReplyKeyboardMarkup(
 	keyboard = [
 		[
 				KeyboardButton(text="⏹ Бош саҳифа"), KeyboardButton(text="⬅️ orqaga")
+		],
+		[
+				KeyboardButton(text="Қарши алоқа ва ишорат муассасаси ШЧ-8")
 		],
 		[
 				KeyboardButton(text="Қарши электр таъминоти корхонаси (ЭЧ-5)")

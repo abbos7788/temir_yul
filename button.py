@@ -89,7 +89,9 @@ bosh_sahifa_qarshi_bolimlar_1 = ReplyKeyboardMarkup(
 		[
 				KeyboardButton(text="Техник ишлаб чиқариш бўлими")
 		],
-
+		[
+				KeyboardButton(text="Техник ишлаб чиқариш бўлими")
+		],
 
 
 	],
@@ -214,6 +216,103 @@ bosh_sahifa_qarshi_bolimlar_4 = ReplyKeyboardMarkup(
 	],
 	resize_keyboard = True
 )
+
+bosh_sahifa_qarshi_bolimlar_bekatlar_1 = ReplyKeyboardMarkup(
+	keyboard = [
+		[
+				KeyboardButton(text="⏹ Бош саҳифа"), KeyboardButton(text="Станциялар")
+		],
+		[
+				KeyboardButton(text="Қашқадарё бекати")
+		],
+		[
+				KeyboardButton(text="Негуз бекати")
+		],
+		[
+				KeyboardButton(text="Алатун бекати")
+		],
+		[
+				KeyboardButton(text="Айратам бекати")
+		],
+		[
+				KeyboardButton(text="Жом бекати")
+		],
+				[
+				KeyboardButton(text="Улус бекати")
+		],
+		[
+				KeyboardButton(text="Гумбаз бекати")
+		],
+
+
+	],
+	resize_keyboard = True
+)
+
+bosh_sahifa_qarshi_bolimlar_bekatlar_2 = ReplyKeyboardMarkup(
+	keyboard = [
+		[
+				KeyboardButton(text="⏹ Бош саҳифа"), KeyboardButton(text="Станциялар")
+		],
+		[
+				KeyboardButton(text="Дашт бекати")
+		],
+		[
+				KeyboardButton(text="Шўртан бекати")
+		],
+		[
+				KeyboardButton(text="Тошғузор бекати")
+		],
+		[
+				KeyboardButton(text="Ғузор бекати")
+		],
+		[
+				KeyboardButton(text="Қамаши бекати")
+		],
+				[
+				KeyboardButton(text="Яккабоғ бекати")
+		],
+		[
+				KeyboardButton(text="Танхоз бекати")
+		],
+		[
+				KeyboardButton(text="Китоб бекати")
+		],
+
+
+	],
+	resize_keyboard = True
+)
+
+bosh_sahifa_qarshi_bolimlar_bekatlar_3 = ReplyKeyboardMarkup(
+	keyboard = [
+		[
+				KeyboardButton(text="⏹ Бош саҳифа"), KeyboardButton(text="Станциялар")
+		],
+		[
+				KeyboardButton(text="Қайирма бекати")
+		],
+		[
+				KeyboardButton(text="Бузахўр бекати")
+		],
+		[
+				KeyboardButton(text="Жарқудуқ бекати")
+		],
+		[
+				KeyboardButton(text="Деҳқонобод бекати")
+		],
+		[
+				KeyboardButton(text="Қорадахна бекати")
+		],
+				[
+				KeyboardButton(text="Оқрабод бекати")
+		],
+
+
+	],
+	resize_keyboard = True
+)
+
 
 
 
